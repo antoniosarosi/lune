@@ -1,0 +1,19 @@
+{
+    "name": "antoniosarosi/lune",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Sarosi",
+            "email": "sarosiantonio@gmail.com"
+        }
+    ],
+    "require": {
+        "antoniosarosi/lune-framework": "^0.1.0"
+    }
+}
